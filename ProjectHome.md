@@ -1,0 +1,1 @@
+This project contains the work related to T-spline operations, i.e. knots removal, knot insertion.
